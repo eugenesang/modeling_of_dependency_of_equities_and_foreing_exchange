@@ -29,3 +29,6 @@ pip install pandas scipy copulas matplotlib numpy
 ```sh
 python app.py
 ```
+
+This repo might contain some personal info related to data sanitization
+
